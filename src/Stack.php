@@ -1,9 +1,9 @@
 <?php
 
-namespace Src;
+namespace Aamir\Stack\Src;
 
 use SplQueue;
-use Src\Exceptions\EmptyStackException;
+use Aamir\Stack\Src\Exceptions\EmptyStackException;
 
 /**
  * Class Stack

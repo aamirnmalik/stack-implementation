@@ -16,8 +16,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Src\\": "src/",
-            "Tests\\": "tests/"
+            "Aamir\\Stack\\Src\\": "src/",
+            "Aamir\\Stack\\Tests\\": "tests/"
         }
     }
 }

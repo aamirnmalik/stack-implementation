@@ -1,11 +1,11 @@
 <?php
 
-namespace Tests;
+namespace Aamir\Stack\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Src\Exceptions\EmptyStackException;
-use Src\Stack;
-use Src\StackContract;
+use Aamir\Stack\Src\Exceptions\EmptyStackException;
+use Aamir\Stack\Src\Stack;
+use Aamir\Stack\Src\StackContract;
 
 class StackTest extends TestCase
 {
